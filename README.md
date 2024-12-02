@@ -46,6 +46,6 @@ This Excel-based project offers a comprehensive analysis of the Adidas brand sal
 
 ## Acknowledgments
 
-- Raw data of Adidas sales: [Link to kaggle.com]([https://example.com/my-olympic-project](https://www.kaggle.com/code/ahmedabbas757/adidas-sales-eda)
+- Raw data of Adidas sales: [Link to kaggle.com](https://www.kaggle.com/code/ahmedabbas757/adidas-sales-eda)
 - Lecture in this course: Shani Fahima
 
